@@ -9,6 +9,8 @@
 
 ## 플레이
 
+공개 플레이: https://sigco3111.github.io/lanternfall-ko/ (GitHub Pages)
+
 `index.html` 하나로 동작하는 단일 페이지 게임입니다. 브라우저로 열면 바로 플레이할 수 있습니다.
 
 - Enter / Space (또는 클릭): 타이틀 화면에서 시작
